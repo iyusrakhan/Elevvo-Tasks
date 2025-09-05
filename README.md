@@ -19,7 +19,6 @@ The tasks demonstrate skills in **data cleaning, exploratory analysis, customer 
 - Generated summary statistics (survival by gender/class/age)  
 - Visualized correlations with bar plots & heatmaps  
 
-📓 Notebook → [Task2_Titanic_EDA.ipynb](./Task2_Titanic_EDA.ipynb)  
 
 ---
 
@@ -27,9 +26,7 @@ The tasks demonstrate skills in **data cleaning, exploratory analysis, customer 
 📌 **Dataset:** Online Retail (UCI / Kaggle)  
 - Calculated **Recency, Frequency, Monetary (RFM)** metrics  
 - Segmented customers into high-value, loyal, and at-risk groups  
-- Suggested marketing strategies per segment  
-
-📓 Notebook → [Task3_RFM.ipynb](./Task3_RFM.ipynb)  
+- Suggested marketing strategies per segment 
 
 ---
 
@@ -45,7 +42,6 @@ The tasks demonstrate skills in **data cleaning, exploratory analysis, customer 
   - 📊 Age distribution  
 - ✅ Bonus: **Dashboard of Top 5 Insights**  
 
-📓 Notebook → [Task4_Survey_Cleaning.ipynb](./Task4_Survey_Cleaning.ipynb)  
 
 ---
 
@@ -56,7 +52,6 @@ The tasks demonstrate skills in **data cleaning, exploratory analysis, customer 
 - Breakdown by **Dept (products)** & **Store Type/Region**  
 - ✅ Bonus: Forecasted next 12 months using **Holt-Winters Exponential Smoothing**  
 
-📓 Notebook → [Task7_TimeSeries_Retail.ipynb](./Task7_TimeSeries_Retail.ipynb)  
 
 ---
 
